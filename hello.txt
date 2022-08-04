@@ -1,1 +1,2 @@
 ini file hello
+kanlah hal yang berbeda pada setiap isi teks hello.txt pada masing-masing branch. Kemudian, lakukan commit pada masing-masing branch. Jika sudah, lakukan pull-request untuk menggabungkan branch development ke main atau juga sebaliknya. Sehingga tampilan saat ini akan jadi seperti berikut:
